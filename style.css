@@ -1,0 +1,144 @@
+body {
+    color: rgb(5, 0, 0);
+    background-color: rgb(241, 211, 211);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.center {
+    text-align: center;
+}
+
+h1 {
+    color: #f18484;
+}
+
+footer img {
+    width: 40px;
+    height: 40px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+footer a {
+    margin: 20px;
+    text-align: center;
+}
+
+footer p {
+    margin-top: 2px;
+}
+
+.container {
+    padding: 0px 50px;
+}
+
+nav a {
+    font-size: 20px;
+}
+
+nav a:hover {
+    color: #000000;
+}
+
+.contact-form input{
+    width: 100%;
+    padding: 8px 0;
+    margin: 8px 0;
+}
+
+.contact-form input[type=text] {
+    height: 100px;
+}
+
+button {
+    color: black;
+    background-color: white;
+    border: none;
+    width: 100px;
+    height: 30px;
+}
+
+.cabecalho {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 24px;
+  }
+
+.cabecalho-menu {
+    display: flex;
+    gap: 32px;
+  }
+  
+  .cabecalho-menu-item {
+    font-family: 'Sarala', sans-serif;
+    color: #FFF2E7;
+    font-weight: 400;
+    font-size: 25px
+  }
+
+
+#img1 {
+    position: absolute; 
+    left: 310px; /* posiciona a 90px para a esquerda */ 
+    top: 150px; /* posiciona a 70px para baixo */
+}
+
+#img2 {
+    position: absolute; 
+    left: 310px; /* posiciona a 90px para a esquerda */ 
+    top: 750px; /* posiciona a 70px para baixo */
+}
+
+#img3 {
+    position: absolute; 
+    left: 310px; /* posiciona a 90px para a esquerda */ 
+    top: 1290px; /* posiciona a 70px para baixo */
+}
+
+#img4 {
+    position: absolute; 
+    left: 310px; /* posiciona a 90px para a esquerda */ 
+    top: 1800px; /* posiciona a 70px para baixo */
+}
+
+#img5 {
+    position: absolute; 
+    left: 310px; /* posiciona a 90px para a esquerda */ 
+    top: 2280px; /* posiciona a 70px para baixo */
+}
+
+#img6 {
+    position: absolute; 
+    left: 310px; /* posiciona a 90px para a esquerda */ 
+    top: 2800px; /* posiciona a 70px para baixo */
+}
+
+#img7 {
+    position: absolute; 
+    left: 310px; /* posiciona a 90px para a esquerda */ 
+    top: 3370px; /* posiciona a 70px para baixo */
+}
+
+#img8 {
+    position: absolute; 
+    left: 310px; /* posiciona a 90px para a esquerda */ 
+    top: 3870px; /* posiciona a 70px para baixo */
+}
